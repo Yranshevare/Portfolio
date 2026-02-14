@@ -1,5 +1,3 @@
-// import { motion } from "framer-motion";
-import profilePhoto from "../assets/profile-photo.png.png";
 import { motion, easeOut } from "framer-motion";
 
 const container = {
