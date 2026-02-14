@@ -4,13 +4,9 @@ import IntroAnimation from "./components/IntroAnimation";
 import CustomCursor from "./components/CustomCursor";
 import Hero3DScene from "./components/Hero3DScene";
 import HeroSection from "./components/HeroSection";
-// import ProjectsSection from "./components/ProjectsSection";
 import ProjectsSection from "./components/ProjectSection";
 import SkillsSection from "./components/SkillsSection";
 import ContactSection from "./components/ContactSection";
-// import ProjectsSection from "@/components/ProjectsSection";
-// import SkillsSection from "@/components/SkillsSection";
-// import ContactSection from "@/components/ContactSection";
 
 const App = () => {
     const [introComplete, setIntroComplete] = useState(false);
