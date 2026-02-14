@@ -168,7 +168,7 @@ const ProjectsSection = () => {
                         transition={{ duration: 0.6 }}
                         className="mb-16"
                     >
-                        <h2 className="text-5xl mt-20  md:text-7xl font-bold leading-[1.1] tracking-tight mb-6">
+                        <h2 className="text-3xl mt-20  md:text-5xl font-bold leading-[1.1] tracking-tight mb-6">
                             Featured{" "}
                             <span className="text-glow bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
                                 Projects
