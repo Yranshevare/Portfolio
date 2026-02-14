@@ -174,7 +174,7 @@ const ProjectsSection = () => {
                                 Projects
                             </span>
                         </h2>
-                        <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-10 max-w-lg">
+                        <p className="text-lg  text-muted-foreground leading-relaxed mb-10 max-w-lg">
                             A selection of things I've built — from AI experiments to production systems.
                         </p>
                     </motion.div>
